@@ -1,0 +1,7 @@
+{
+  "name": "prex-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
